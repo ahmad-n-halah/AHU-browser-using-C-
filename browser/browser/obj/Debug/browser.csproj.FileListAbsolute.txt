@@ -1,0 +1,16 @@
+c:\users\ahmadhalah\documents\visual studio 2012\Projects\browser\browser\bin\Debug\browser.exe.config
+c:\users\ahmadhalah\documents\visual studio 2012\Projects\browser\browser\bin\Debug\browser.exe
+c:\users\ahmadhalah\documents\visual studio 2012\Projects\browser\browser\bin\Debug\browser.pdb
+c:\users\ahmadhalah\documents\visual studio 2012\Projects\browser\browser\obj\Debug\browser.csprojResolveAssemblyReference.cache
+c:\users\ahmadhalah\documents\visual studio 2012\Projects\browser\browser\obj\Debug\browser.Form1.resources
+c:\users\ahmadhalah\documents\visual studio 2012\Projects\browser\browser\obj\Debug\browser.Properties.Resources.resources
+c:\users\ahmadhalah\documents\visual studio 2012\Projects\browser\browser\obj\Debug\browser.csproj.GenerateResource.Cache
+c:\users\ahmadhalah\documents\visual studio 2012\Projects\browser\browser\obj\Debug\browser.exe
+c:\users\ahmadhalah\documents\visual studio 2012\Projects\browser\browser\obj\Debug\browser.pdb
+C:\Users\ahmadhalah\documents\visual studio 2012\Projects\browser\browser\obj\Debug\browser.Form2.resources
+C:\Users\ahmadhalah\documents\visual studio 2012\Projects\browser\browser\obj\Debug\browser.History.resources
+C:\Users\ahmadhalah\documents\visual studio 2012\Projects\browser\browser\obj\Debug\browser.Favorites.resources
+C:\Users\ahmadhalah\documents\visual studio 2012\Projects\browser\browser\obj\Debug\browser.setting.resources
+C:\Users\ahmadhalah\Desktop\خلصنا\uni\uni\Projects\browser\browser\bin\Debug\browser.exe.config
+C:\Users\ahmadhalah\Desktop\خلصنا\uni\uni\Projects\browser\browser\obj\Debug\browser.exe
+C:\Users\ahmadhalah\Desktop\خلصنا\uni\uni\Projects\browser\browser\obj\Debug\browser.pdb
